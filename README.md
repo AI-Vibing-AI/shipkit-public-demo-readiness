@@ -8,10 +8,17 @@ or external playtesters.
 
 ## What's Included
 
-- `PUBLIC_DEMO_READINESS_CHECKLIST.md`
-- `DemoReadinessInspector` scene
-- `demo_readiness_inspector.gd`
+- `addons/shipkit_public_demo_readiness/docs/PUBLIC_DEMO_READINESS_CHECKLIST.md`
+- `addons/shipkit_public_demo_readiness/scenes/demo_readiness_inspector.tscn`
+- `addons/shipkit_public_demo_readiness/scripts/demo_readiness_inspector.gd`
 - MIT license
+
+## Source Trust
+
+- Source tag: https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/releases/tag/v0.1.0
+- ZIP: https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/releases/download/v0.1.0/shipkit-public-demo-readiness-v0.1.0.zip
+- SHA256: https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/releases/download/v0.1.0/shipkit-public-demo-readiness-v0.1.0.zip.sha256
+- Manifest: https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/releases/download/v0.1.0/shipkit-public-demo-readiness-v0.1.0-manifest.txt
 
 ## License
 
@@ -33,7 +40,8 @@ can inspect or adapt it quickly.
 Copy `addons/shipkit_public_demo_readiness` into your Godot 4 project.
 Enable the plugin from `Project > Project Settings > Plugins` if you want the
 `PublicDemoReadinessInspector` node type to appear in the editor. You can also
-Instance `scenes/demo_readiness_inspector.tscn` directly in a debug or QA scene.
+instance `res://addons/shipkit_public_demo_readiness/scenes/demo_readiness_inspector.tscn`
+directly in a debug or QA scene.
 
 Optional exported paths:
 
