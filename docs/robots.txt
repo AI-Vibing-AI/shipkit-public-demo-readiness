@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-vibing-ai.github.io/shipkit-public-demo-readiness/sitemap.xml
