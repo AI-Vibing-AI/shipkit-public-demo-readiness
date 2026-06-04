@@ -51,6 +51,9 @@ project, and any console output.
 For fit questions, use the Q&A thread:
 https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/discussions/1
 
+Supporter-funded follow-up work is tracked here:
+https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/issues/2
+
 The inspector checks for common public-demo wrapper items such as a pause
 action, reset hook, feedback URL, store CTA, build stamp, and source package
 trust docs. It is intentionally small and plain GDScript so Godot developers

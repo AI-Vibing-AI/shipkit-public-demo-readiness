@@ -20,6 +20,10 @@ For lighter fit questions, use this Q&A thread:
 
 https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/discussions/1
 
+Supporter-funded follow-up work is tracked here:
+
+https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/issues/2
+
 The optional full shell is available here:
 
 https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell?utm_source=github_support&utm_medium=owned_repo&utm_campaign=public_demo_readiness
