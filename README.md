@@ -6,6 +6,18 @@ Use this when your demo is playable, but you want to catch wrapper and trust
 gaps before sending it to public players, press, streamers, festival reviewers,
 or external playtesters.
 
+## Need the full demo shell?
+
+This repository is the free checklist and inspector only. If you want the
+ready-made Godot 4 pause/settings/input-remap/reset/feedback/store-CTA shell,
+the optional full kit is here:
+
+https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell
+
+Download the full kit free if you need to inspect fit first. A paid/supporter
+download is optional and helps fund install docs, compatibility smoke tests,
+and small Godot 4.2-4.6.x fixes.
+
 ## What's Included
 
 - `addons/shipkit_public_demo_readiness/docs/PUBLIC_DEMO_READINESS_CHECKLIST.md`
