@@ -18,6 +18,12 @@ Download the full kit free if you need to inspect fit first. A paid/supporter
 download is optional and helps fund install docs, compatibility smoke tests,
 and small Godot 4.2-4.6.x fixes.
 
+Use this free checklist if your project already has its own menu/settings flow
+and you only need a readiness review before a public build. Open the optional
+full shell if you still need pause, settings, input remap, reset confirmation,
+feedback, store CTA, controller-label, and build-stamp UI that you can adapt
+instead of rebuilding those pieces.
+
 ## What's Included
 
 - `addons/shipkit_public_demo_readiness/docs/PUBLIC_DEMO_READINESS_CHECKLIST.md`

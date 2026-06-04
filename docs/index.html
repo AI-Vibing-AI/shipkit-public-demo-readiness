@@ -11,6 +11,18 @@
   <meta property="og:url" content="https://ai-vibing-ai.github.io/shipkit-public-demo-readiness/">
   <meta property="og:image" content="https://ai-vibing-ai.github.io/shipkit-public-demo-readiness/assets/preview-inspector.png">
   <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "SoftwareSourceCode",
+      "name": "ShipKit Public Demo Readiness",
+      "description": "Free Godot 4 public-demo checklist and inspector for pause, reset, feedback, store CTA, build stamp, and package-trust basics.",
+      "codeRepository": "https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness",
+      "programmingLanguage": "GDScript",
+      "license": "https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/blob/main/LICENSE.md",
+      "applicationCategory": "GameDeveloperTool"
+    }
+  </script>
   <style>
     :root {
       color-scheme: light;
@@ -191,6 +203,22 @@
       border-radius: 6px;
     }
 
+    .decision {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .decision h3 {
+      margin: 0 0 10px;
+      font-size: 18px;
+    }
+
+    .decision ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+
     footer {
       border-top: 1px solid var(--line);
       padding: 26px 0 40px;
@@ -201,7 +229,8 @@
     @media (max-width: 820px) {
       .hero,
       .split,
-      .grid {
+      .grid,
+      .decision {
         grid-template-columns: 1fr;
       }
 
@@ -276,6 +305,30 @@
         <div class="note">
           <strong>Boundary:</strong>
           <p>This free checklist does not include the full shell's pause menu, settings menu, input remapping, controller labels, reset confirmation UI, feedback button, or store CTA button. You do not need the full shell to use the free checklist.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <h2>Pick the right path</h2>
+        <div class="decision">
+          <article class="tile">
+            <h3>Use the free checklist if</h3>
+            <ul>
+              <li>your project already has its own menu and settings flow</li>
+              <li>you only need a readiness review before a public build</li>
+              <li>you want a tiny MIT inspector you can copy apart</li>
+            </ul>
+          </article>
+          <article class="tile">
+            <h3>Open the full shell if</h3>
+            <ul>
+              <li>you still need pause, settings, input remap, reset, feedback, and store CTA UI</li>
+              <li>you want a wrapper you can adapt instead of rebuilding those pieces</li>
+              <li>a supporter download would be worth less than the setup time it saves</li>
+            </ul>
+          </article>
         </div>
       </div>
     </section>
