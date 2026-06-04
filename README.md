@@ -12,7 +12,7 @@ This repository is the free checklist and inspector only. If you want the
 ready-made Godot 4 pause/settings/input-remap/reset/feedback/store-CTA shell,
 the optional full kit is here:
 
-https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell
+https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell?utm_source=github_readme&utm_medium=owned_repo&utm_campaign=public_demo_readiness
 
 Download the full kit free if you need to inspect fit first. A paid/supporter
 download is optional and helps fund install docs, compatibility smoke tests,
@@ -71,7 +71,7 @@ include the paid/PWYW shell's pause menu, settings menu, input remapping,
 controller labels, reset confirmation UI, feedback button, or store CTA button.
 
 The optional full shell is here:
-https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell
+https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell?utm_source=github_readme&utm_medium=owned_repo&utm_campaign=public_demo_readiness
 
 You do not need the optional full shell to use this free checklist/inspector.
 

@@ -59,7 +59,7 @@ include the paid/PWYW shell's pause menu, settings menu, input remapping,
 controller labels, reset confirmation UI, feedback button, or store CTA button.
 
 The optional full shell is here:
-https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell
+https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell?utm_source=addon_readme&utm_medium=owned_repo&utm_campaign=public_demo_readiness
 
 You do not need the optional full shell to use this free checklist/inspector.
 

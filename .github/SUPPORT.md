@@ -18,6 +18,6 @@ meaningful setup time.
 
 The optional full shell is available here:
 
-https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell
+https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell?utm_source=github_support&utm_medium=owned_repo&utm_campaign=public_demo_readiness
 
 The full shell is free to inspect. Paid/supporter downloads are optional.
