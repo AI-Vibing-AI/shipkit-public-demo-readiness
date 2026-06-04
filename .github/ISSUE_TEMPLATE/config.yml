@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Free checklist or full shell Q&A
+    url: https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/discussions/1
+    about: Ask whether the free checklist is enough or the optional shell fits your demo workflow.
+  - name: Supporter-funded roadmap
+    url: https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/issues/2
+    about: See the install docs, compatibility notes, and troubleshooting work supporter downloads help fund.
+  - name: Optional full Godot demo shell
+    url: https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell?utm_source=github_issue_template&utm_medium=owned_repo&utm_campaign=public_demo_readiness
+    about: Open the free/PWYW full shell if you need pause, settings, remap, reset, feedback, and store CTA UI.
