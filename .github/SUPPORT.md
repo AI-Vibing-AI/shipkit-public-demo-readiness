@@ -16,6 +16,10 @@ feedback includes what kind of public demo you are preparing, which wrapper or
 trust checks matter most, and whether the optional full demo shell would save
 meaningful setup time.
 
+For lighter fit questions, use this Q&A thread:
+
+https://github.com/AI-Vibing-AI/shipkit-public-demo-readiness/discussions/1
+
 The optional full shell is available here:
 
 https://shipkitstudio.itch.io/godot-4-next-fest-demo-shell?utm_source=github_support&utm_medium=owned_repo&utm_campaign=public_demo_readiness
